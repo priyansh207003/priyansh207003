@@ -76,11 +76,11 @@ No long stories — just **systems on display**.
 | ⚙️ Repo | 📡 Brief Signal | 🎨 Stack |
 |---|---|---|
 | [ClinicGo](https://github.com/priyansh207003/ClinicGo) | Smart Clinic Flow & Worker Efficiency System | Jupyter Notebook |
-| [Smart-Human-Life-Safety-and-Alert-System-for-Vehicle-Accident-Victims](https://github.com/priyansh207003/Smart-Human-Life-Safety-and-Alert-System-for-Vehicle-Accident-Victims) | Smart human life safety & alert system for vehicle accident victims | Jupyter Notebook |
-| [Text-To-Voice-Converter-Web-application](https://github.com/priyansh207003/Text-To-Voice-Converter-Web-application) | Web-based text-to-speech converter | CSS |
-| [Image-search-Engine-](https://github.com/priyansh207003/Image-search-Engine-) | Custom image search engine | JavaScript |
-| [Resumeo1](https://github.com/priyansh207003/Resumeo1) | Resume builder web app | HTML |
-| [Prince](https://github.com/priyansh207003/Prince) | Web application project | HTML |
+| [Health-bridge](https://github.com/priyansh207003/Health-bridge) | Healthcare connectivity & patient-data bridge platform | — |
+| [Food-spoilage-detection-and-prediction-using-arduino-nano-ble-33-ml-kit](https://github.com/priyansh207003/Food-spoilage-detection-and-prediction-using-arduino-nano-ble-33-ml-kit) | On-device TinyML spoilage detection & prediction using Arduino Nano BLE 33 Sense | Arduino, TinyML |
+| [Portfolio-web-app](https://github.com/priyansh207003/Portfolio-web-app) | Personal portfolio web application | HTML/CSS/JS |
+| [Ai-academy](https://github.com/priyansh207003/Ai-academy) | AI learning/education platform | — |
+| [Smart-Waste-Segregation-System](https://github.com/priyansh207003/Smart-Waste-Segregation-System) | IoT-based smart waste segregation system (published research project) | IoT |
 
 **Beyond the repo grid — real-world builds:**
 
@@ -96,7 +96,7 @@ No long stories — just **systems on display**.
 
 - Deepening full-stack + IoT integration (sensor-to-dashboard pipelines)
 - Exploring LLM-driven architecture & agentic tooling
-- Sharpening DSA — actively solving on [LeetCode](https://leetcode.com/u/PriyanshTiwari2003/)
+- Sharpening DSA — actively solving on [LeetCode](https://leetcode.com/u/Priyansh_Tiwari_2003/)
 
 ---
 
@@ -118,7 +118,7 @@ No long stories — just **systems on display**.
 <p align="center">
   <a href="https://linkedin.com/in/priyansh-tiwari03"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pt022802@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/PriyanshTiwari2003/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/Priyansh_Tiwari_2003/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <p align="center"><i>📍 Jabalpur, Madhya Pradesh, India</i></p>
