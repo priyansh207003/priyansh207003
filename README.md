@@ -8,7 +8,7 @@
 
 <p align="center">
   <code>role: Full-Stack Developer & IoT Systems Engineer</code> •
-  <code>focus: React · Node.js · FastAPI · MQTT/Modbus</code> •
+  <code>focus: React · Node.js · FastAPI · AWS · Docker</code> •
   <code>status: shipping=true // learning=always</code>
 </p>
 
@@ -23,10 +23,11 @@
 - 🏆 Finalist, **Samadhan 2.0** (2025) & **HackXelerate** (2025)
 
 I build **end-to-end full-stack platforms** — from database schema and API design through to production UI — and connect them to the physical world through embedded/IoT protocols.
-My playground is where **React, Node.js, FastAPI**, and **device communication (MQTT, Modbus, WebSockets)** meet.
+My playground is where **React, Node.js, FastAPI**, and **cloud-native deployment (AWS, Docker)** meet.
 
 **Specializations (a.k.a. active modules):**
 - 🖥️ Full-Stack Web Development (**React.js**, Node.js, Express, FastAPI)
+- ☁️ **Cloud & DevOps** — **AWS** (cloud infrastructure) & **Docker** (containerized deployments) for production-grade shipping
 - 📶 IoT & Embedded Integration (ESP32, Vicharak Axon, Raspberry Pi, STM32)
 - 🤖 AI-Powered Pipelines (LLM-driven architecture generation, conversational flows)
 - 🔌 Real-time Systems (WebSockets, MQTT, Modbus RS-485)
@@ -57,10 +58,10 @@ My playground is where **React, Node.js, FastAPI**, and **device communication (
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -95,6 +96,7 @@ No long stories — just **systems on display**.
 ### 🎯 Current Focus
 
 - Deepening full-stack + IoT integration (sensor-to-dashboard pipelines)
+- Sharpening cloud deployment skills with **AWS** and **Docker**
 - Exploring LLM-driven architecture & agentic tooling
 - Sharpening DSA — actively solving on [LeetCode](https://leetcode.com/u/Priyansh_Tiwari_2003/)
 
