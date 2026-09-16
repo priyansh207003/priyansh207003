@@ -75,11 +75,11 @@ No long stories — just **systems on display**.
 
 | ⚙️ Repo | 📡 Brief Signal | 🎨 Stack |
 |---|---|---|
-| [ClinicGo](https://github.com/priyansh207003/ClinicGo) | Smart Clinic Flow & Worker Efficiency System | Jupyter Notebook |
-| [Health-bridge](https://github.com/priyansh207003/Health-bridge) | Healthcare connectivity & patient-data bridge platform | — |
+| [ClinicGo](https://github.com/priyansh207003/ClinicGo) | Smart Clinic Flow & Worker Efficiency System | Full-Stack + AI Integration |
+| [Health-bridge](https://github.com/priyansh207003/Health-bridge) | Healthcare connectivity & patient-data bridge platform | Full Stack |
 | [Food-spoilage-detection-and-prediction-using-arduino-nano-ble-33-ml-kit](https://github.com/priyansh207003/Food-spoilage-detection-and-prediction-using-arduino-nano-ble-33-ml-kit) | On-device TinyML spoilage detection & prediction using Arduino Nano BLE 33 Sense | Arduino, TinyML |
-| [Portfolio-web-app](https://github.com/priyansh207003/Portfolio-web-app) | Personal portfolio web application | HTML/CSS/JS |
-| [Ai-academy](https://github.com/priyansh207003/Ai-academy) | AI learning/education platform | — |
+| [Portfolio-web-app](https://github.com/priyansh207003/Portfolio-web-app) | Personal portfolio web application | React JS |
+| [Ai-academy](https://github.com/priyansh207003/Ai-academy) | AI learning/education platform | Full Stack + AI Integration |
 | [Smart-Waste-Segregation-System](https://github.com/priyansh207003/Smart-Waste-Segregation-System) | IoT-based smart waste segregation system (published research project) | IoT |
 
 **Beyond the repo grid — real-world builds:**
